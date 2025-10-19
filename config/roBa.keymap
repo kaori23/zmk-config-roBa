@@ -91,10 +91,10 @@
 
         FUNCTION {
             bindings = <
-&kp NUMBER_1          &kp NUMBER_2           &kp NUMBER_3    &kp NUMBER_4     &kp NUMBER_5                                        &kp NUMBER_6           &kp NUMBER_7    &kp NUMBER_8     &kp NUMBER_9    &kp NUMBER_0
-&kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp EQUAL         &kp F5             &kp RC(SPACE)  &kp RIGHT_PARENTHESIS  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp UP_ARROW    &kp F12
-&kp DOUBLE_QUOTES     &kp SQT                &kp PIPE        &kp LESS_THAN    &kp GREATER_THAN  &kp COLON          &kp PLUS       &kp MINUS              &kp UNDER       &kp LEFT_ARROW   &kp DOWN_ARROW  &kp RIGHT_ARROW
-&kp LA(LG(I))         &kp F2                 &trans          &trans           &kp PERCENT       &kp AMPERSAND      &kp SLASH      &kp ASTERISK                                                            &kp AT
+&kp NUMBER_1          &kp NUMBER_2           &kp NUMBER_3              &kp NUMBER_4     &kp NUMBER_5                                                   &kp NUMBER_6               &kp NUMBER_7    &kp NUMBER_8     &kp NUMBER_9    &kp NUMBER_0
+&kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LEFT_BRACE            &kp RIGHT_BRACE  &kp EQUAL         &kp F5             &kp RC(RS(LEFT_BRACKET))  &kp RC(RS(RIGHT_BRACKET))  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp UP_ARROW    &kp F12
+&kp DOUBLE_QUOTES     &kp SQT                &kp PIPE                  &kp LESS_THAN    &kp GREATER_THAN  &kp COLON          &kp PLUS                  &kp MINUS                  &kp UNDER       &kp LEFT_ARROW   &kp DOWN_ARROW  &kp RIGHT_ARROW
+&kp LA(LG(I))         &kp F2                 &kp LC(LS(LEFT_BRACKET))  &trans           &kp PERCENT       &kp AMPERSAND      &kp SLASH                 &kp ASTERISK                                                                &kp AT
             >;
         };
 
